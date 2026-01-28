@@ -1,26 +1,15 @@
-# 👋 Hi, I'm Adam (@pogami)
+# hey, i’m adam 👋
 
-I'm a Computer Science student at **Georgia State University** (Class of 2028) and a software developer focused on building **AI-driven, user-facing applications**.
+I like taking rough ideas and turning them into products real people can actually use.
 
----
+Right now, that looks like:
 
-### 🚀 What I'm Building
+- building **[CourseConnect AI](https://courseconnectai.com)**, a study copilot that helps college students turn messy syllabi into structured plans and on‑demand help  
+- building **GaitGuard**, an Apple Watch app that uses motion and haptic feedback to support people with Parkinson’s during freezing‑of‑gait episodes  
 
-- **[CourseConnect AI](https://courseconnectai.com):** Founder and lead dev of an AI-powered study platform that helps college students turn messy syllabi into structured plans and on-demand help.
-- **GaitGuard:** Apple Watch app that uses motion sensors and AI to detect freezing of gait and trigger haptic cues for people with Parkinson’s.
-- **Full‑stack products:** I like shipping real, end‑to‑end web and mobile apps that people actually use.
+I learn by shipping: trying things, breaking them, and fixing them until they work—more than by memorizing syntax or chasing tutorial checklists.
 
----
-
-### 🛠️ Tech I Use
-
-- **Languages:** TypeScript, Python, Swift, JavaScript  
-- **Web:** React / Next.js, Tailwind, Firebase, REST APIs  
-- **AI:** OpenAI, Gemini, LLM-powered features integrated into real products
+always learning. always shipping.
 
 ---
 
-### 📫 Contact
-
-- **Startup:** [courseconnectai.com](https://courseconnectai.com)  
-- **LinkedIn:** [linkedin.com/in/adamogsu](https://www.linkedin.com/in/adamogsu/)
