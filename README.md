@@ -7,7 +7,7 @@ I am a Computer Science student at **Georgia State University** (Class of 2028) 
 ### 🚀 Projects & Work
 
 * **[CourseConnect AI](https://courseconnectai.com):** Founder and lead developer of an AI-powered study platform designed to streamline student learning.
-* **GaitGuardAI:** Developed an Apple Watch application for fall detection using motion sensors and AI.
+* **GaitGuard:** Developed an Apple Watch application for fall detection using motion sensors and AI.
 * **Full-Stack Development:** Focused on shipping functional, user-centric web and mobile applications.
 
 ---
