@@ -1,47 +1,26 @@
 # 👋 Hi, I'm Adam (@pogami)
 
-I am a Computer Science student at **Georgia State University** (Class of 2028) and a software developer focused on building AI-driven applications.
+I'm a Computer Science student at **Georgia State University** (Class of 2028) and a software developer focused on building **AI-driven, user-facing applications**.
 
 ---
 
-### 🚀 Projects & Work
+### 🚀 What I'm Building
 
-* **[CourseConnect AI](https://courseconnectai.com):** Founder and lead developer of an AI-powered study platform designed to streamline student learning.
-* **GaitGuard:** Developed an Apple Watch application for fall detection using motion sensors and AI.
-* **Full-Stack Development:** Focused on shipping functional, user-centric web and mobile applications.
-
----
-
-### 🌏 Background & Interests
-
-* **Travel:** I've spent time in London, Paris, Cape Town, and Mogadishu.
-* **Gaming:** PlayStation enthusiast (ID: `chunky_mello`) — currently playing *Cyberpunk 2077* and *Marvel Rivals*.
-* **Personal:** I live in the Atlanta area and have a cat named Sushi.
-* **Hobbies:** Fitness, snowboarding, and matcha.
+- **[CourseConnect AI](https://courseconnectai.com):** Founder and lead dev of an AI-powered study platform that helps college students turn messy syllabi into structured plans and on-demand help.
+- **GaitGuard:** Apple Watch app that uses motion sensors and AI to detect freezing of gait and trigger haptic cues for people with Parkinson’s.
+- **Full‑stack products:** I like shipping real, end‑to‑end web and mobile apps that people actually use.
 
 ---
 
+### 🛠️ Tech I Use
 
+- **Languages:** TypeScript, Python, Swift, JavaScript  
+- **Web:** React / Next.js, Tailwind, Firebase, REST APIs  
+- **AI:** OpenAI, Gemini, LLM-powered features integrated into real products
 
 ---
 
 ### 📫 Contact
 
-* **Startup:** [courseconnectai.com](https://courseconnectai.com)
-* **LinkedIn:** https://www.linkedin.com/in/adamogsu/
-  
-
-<!--
-**pogami/pogami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Startup:** [courseconnectai.com](https://courseconnectai.com)  
+- **LinkedIn:** [linkedin.com/in/adamogsu](https://www.linkedin.com/in/adamogsu/)
