@@ -1,5 +1,5 @@
 # hey, i’m adam 👋
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/adamgsu?style=plastic)](https://peerlist.io/adamgsu)
 I like taking rough ideas and turning them into products real people can actually use.
 
 Right now, that looks like:
